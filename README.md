@@ -31,6 +31,7 @@
     <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat&logo=styledcomponents&logoColor=white" />
 </div>
 <br/>
+<hr/>
 
 <div align=center>
 	<p>🛠 Tools 🛠</p>
