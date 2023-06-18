@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Rect&reversal=true&color=0:F6DEFF,100:D99CEF&height=300&section=header&text=Jinie%20Github&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Rect&reversal=true&color=0:F6DEFF,100:D99CEF&height=300&width=100%&section=header&text=Jinie%20Github&fontSize=90&animation=fadeIn)
 <p align='center'> 안냐세요 금현진 입니다. </p>
 
 <div align=center>
